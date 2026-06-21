@@ -1,0 +1,1243 @@
+ability|The power or skill to do something|0
+able|Having the skill or capability to do something|0
+about|Concerning or related to something|0
+above|At a higher position than something else|0
+abroad|In or to a foreign country|0
+absent|Not present in a place|0
+absolutely|Completely or totally|0
+accent|A way of pronouncing words typical of a region or group|0
+accept|To agree to receive or take something|0
+access|The ability or right to enter or use something|0
+along|Moving in a line or direction with something|0
+aloud|In a voice that can be heard|0
+accident|An unexpected event that causes damage or injury|0
+alphabet|A set of letters used in a language|0
+accommodation|A place where someone can stay or live|0
+already|Before now or earlier than expected|0
+accompany|To go somewhere with someone|0
+also|In addition; too|0
+account|A record or report of something|0
+altogether|Completely or in total|0
+accountant|A person who manages financial records|0
+always|At all times|0
+accurate|Correct and free from mistakes|0
+ache|A continuous pain|0
+amazed|Very surprised|0
+achieve|To successfully reach a goal|0
+amazing|Very surprising or impressive|0
+across|From one side to the other|0
+ambition|A strong desire to achieve something|0
+act|To do something or perform a role|0
+ambulance|A vehicle used to carry sick or injured people|0
+among|In the middle of a group|0
+amount|A quantity of something|0
+amusing|Funny and entertaining|0
+age|The number of years someone has lived|0
+action|Something that is done|0
+ancient|Very old; from a long time ago|0
+aged|Old in years|0
+active|Busy and energetic|0
+and|Used to connect words or ideas|0
+angry|Feeling strong displeasure|0
+animal|A living creature that is not a plant|0
+ankle|The joint connecting the foot and leg|0
+anniversary|The yearly date of an important event|0
+announce|To make information known publicly|0
+announcement|A public statement or notice|0
+annoy|To make someone slightly angry|0
+annual|Happening once every year|0
+another|One more of the same kind|0
+answer|A response to a question|0
+army|A country's military force|0
+around|On every side of something|0
+ant|A small hardworking insect|0
+arrange|To organize or put in order|0
+antique|An old valuable object|0
+arrangement|The way things are organized|0
+anxious|Worried or nervous about something|0
+arrest|To take someone into police custody|0
+any|One or some without specifying which|0
+arrival|The act of reaching a place|0
+anybody|Any person|0
+arrive|To reach a destination|0
+anymore|Any longer; from now on|0
+art|Creative work such as painting or sculpture|0
+anyone|Any person at all|0
+article|A piece of writing or a particular item|0
+anything|Any object, event, or idea|0
+artist|A person who creates art|0
+anyway|Despite what was said before|0
+anywhere|In or to any place|0
+ashamed|Feeling guilty or embarrassed|0
+apart|Separated by distance or space|0
+ask|To request information or help|0
+asleep|In the state of sleeping|0
+apartment|A set of rooms for living in|0
+aspirin|A medicine used to reduce pain or fever|0
+assistant|A person who helps another person|0
+apologise|To say sorry for something|0
+apology|An expression of regret|0
+appear|To become visible or noticeable|0
+appearance|The way someone or something looks|0
+apple|A round fruit that grows on trees|0
+application|A formal request or a software program|0
+baby|A very young child|0
+babysit|To take care of a child temporarily|0
+babysitter|A person who looks after children|0
+back|The rear part of the body or something|0
+background|The setting or history behind something|0
+backpack|A bag carried on the back|0
+backpacker|A traveler carrying a backpack|0
+backpacking|Traveling with a backpack|0
+backwards|Toward the back direction|0
+bad|Not good|0
+badly|In a poor or unsuccessful way|0
+badminton|A sport played with rackets and a shuttlecock|0
+bag|A container used to carry things|0
+baggage|Bags and belongings taken on a journey|0
+bake|To cook food using dry heat in an oven|0
+baker|A person who makes bread and cakes|0
+balcony|A platform attached to the outside of a building|0
+bald|Having little or no hair on the head|0
+ball|A round object used in games and sports|0
+ballet|A type of dance performed with graceful movements|0
+balloon|A thin rubber bag filled with air or gas|0
+banana|A long curved yellow fruit|0
+band|A group of musicians who perform together|0
+bandage|A strip of material used to cover injuries|0
+bank|A place where money is kept and managed|0
+banking|The business of managing money and financial services|0
+bar|A place where drinks are served|0
+barbecue|A meal or event where food is cooked over a fire|0
+baseball|A sport played with a bat and ball|0
+basic|Simple and essential|0
+basin|A bowl-shaped container for washing|0
+basket|A container made for carrying items|0
+basketball|A sport played by throwing a ball through a hoop|0
+bat|A flying mammal or a piece of sports equipment|0
+bath|The act of washing the body in water|0
+bathroom|A room containing a toilet or bath|0
+body|The physical structure of a person or animal|0
+boil|To heat a liquid until it bubbles|0
+boiled|Cooked in boiling water|0
+bold|Confident and brave|0
+bomb|An explosive weapon|0
+bone|A hard part of the skeleton|0
+book|A collection of written or printed pages|0
+bookcase|A piece of furniture for storing books|0
+booking|The act of reserving something in advance|0
+bookshelf|A shelf used for keeping books|0
+bookshop|A store that sells books|0
+bookstore|A shop where books are sold|0
+boot|A strong shoe that covers the foot and ankle|0
+border|The line separating two areas or countries|0
+bored|Feeling tired because nothing is interesting|0
+boring|Not interesting or exciting|0
+born|Brought into life|0
+borrow|To take something temporarily and return it later|0
+boss|A person who manages workers|0
+both|The two together|0
+bother|To annoy or worry someone|0
+bottle|A container used for liquids|0
+bottom|The lowest part of something|0
+bowl|A deep round dish used for food|0
+box|A container with sides and a lid|0
+cab|A taxi|0
+cabbage|A leafy green vegetable|0
+cabin|A small room or shelter|0
+cabinet|A piece of furniture with shelves or drawers|0
+cable|A thick wire used for carrying electricity or signals|0
+cafeteria|A place where meals are served, often self-service|0
+cage|A structure made of bars for keeping animals|0
+cake|A sweet baked food|0
+calculator|A device used for mathematical calculations|0
+calendar|A chart showing days, weeks, and months|0
+calf|A young cow or the back part of the lower leg|0
+call|To speak to someone by phone or shout to them|0
+calm|Peaceful and not excited or upset|0
+camel|A large desert animal with humps|0
+camera|A device used for taking photographs|0
+camp|A place where people stay in tents|0
+camping|The activity of staying outdoors in tents|0
+campsite|A place designed for camping|0
+can|To be able to do something|0
+canal|A man-made waterway|0
+cancel|To decide that something will not happen|0
+candidate|A person applying for a position or taking part in an election|0
+candle|A stick of wax that gives light when burning|0
+candy|A sweet food made with sugar|0
+canteen|A place where food and drinks are sold|0
+cap|A soft hat with a visor|0
+capital|The main city of a country or region|0
+captain|The leader of a team or ship|0
+car|A road vehicle with four wheels|0
+cathedral|A large and important church|0
+cheap|Low in price|0
+cheat|To act dishonestly for personal gain|0
+check|To examine something carefully|0
+checkout|The place where payment is made in a store|0
+cheek|The side of the face below the eye|0
+cheerful|Happy and positive|0
+cheese|A food made from milk|0
+chef|A professional cook|0
+chemist|A scientist who studies chemicals or a pharmacy worker|0
+chemistry|The science of substances and their reactions|0
+cheque|A written order to a bank to pay money|0
+chess|A board game played by two people|0
+chicken|A bird often raised for meat and eggs|0
+child|A young person|0
+childhood|The period when someone is a child|0
+chilli|A spicy pepper|0
+chin|The lower part of the face below the mouth|0
+chip|A thin slice of potato cooked in oil|0
+chocolate|A sweet food made from cocoa|0
+choice|The act of selecting something|0
+choose|To select from different options|0
+cinema|A place where movies are shown|0
+circle|A round shape with no corners|0
+circus|A traveling show with performers and animals|0
+city|A large town|0
+clap|To strike the hands together to show approval|0
+class|A group of students learning together|0
+consist|To be made up of something|0
+consonant|A speech sound that is not a vowel|0
+contact|Communication or connection with someone|0
+contain|To have something inside|0
+contents|The things that are inside something|0
+contest|A competition in which people try to win|0
+continent|One of the world's large land masses|0
+continue|To keep doing something without stopping|0
+contract|A legal agreement between people or organizations|0
+control|The power to direct or manage something|0
+convenient|Easy and suitable to use|0
+conversation|A talk between two or more people|0
+convince|To make someone believe something|0
+cook|To prepare food using heat|0
+cooker|A device used for cooking food|0
+cookie|A small sweet baked snack|0
+cooking|The activity of preparing food|0
+cool|Slightly cold or fashionable|0
+copy|To make something that is the same as another|0
+corn|A yellow grain crop|0
+corner|The place where two sides meet|0
+correct|Free from mistakes|0
+correction|A change made to fix a mistake|0
+cost|The amount of money needed to buy something|0
+costume|Special clothing worn for a particular purpose|0
+cosy|Comfortable and warm|0
+cottage|A small house, usually in the countryside|0
+cotton|A soft natural fiber used to make cloth|0
+cough|To force air out of the throat suddenly|0
+dad|A father|0
+daily|Happening every day|0
+damage|Harm that reduces value or usefulness|0
+damaged|Harmed or broken|0
+dance|To move the body to music|0
+dancer|A person who dances|0
+dancing|The activity of moving to music|0
+danger|The possibility of harm or injury|0
+dangerous|Likely to cause harm|0
+dark|Having little or no light|0
+date|A particular day of the month or year|0
+daughter|A female child|0
+day|A period of twenty-four hours|0
+dead|No longer alive|0
+deaf|Unable to hear|0
+deal|An agreement or arrangement|0
+dear|Loved or valued very much|0
+death|The end of life|0
+decide|To make a choice|0
+decision|A choice that has been made|0
+declare|To announce something officially|0
+decorate|To make something look more attractive|0
+decrease|To become smaller or less|0
+deep|Extending far down from the surface|0
+defeat|To win against someone|0
+defence|Protection against attack or danger|0
+defend|To protect from harm or attack|0
+definitely|Certainly and without doubt|0
+degree|A unit of measurement or academic qualification|0
+delay|A period of waiting before something happens|0
+dishwasher|A machine that washes dishes|0
+disk|A flat circular object used for storing data|0
+dislike|To not like something|0
+display|To show something for people to see|0
+distance|The amount of space between two places|0
+district|An area of a city or region|0
+disturb|To interrupt or bother|0
+dive|To jump into water headfirst|0
+diver|A person who dives|0
+divide|To separate into parts|0
+diving|The sport or activity of diving into water|0
+doctor|A person trained to treat illnesses|0
+document|A written or printed record|0
+documentary|A factual film or television program|0
+dog|A common domestic animal kept as a pet|0
+doll|A toy shaped like a person|0
+dollar|A unit of money used in several countries|0
+dolphin|An intelligent sea mammal|0
+donkey|An animal related to the horse|0
+door|A movable barrier used to enter or leave a room|0
+dot|A very small round mark|0
+each|Every one of two or more things|0
+ear|The organ used for hearing|0
+earache|Pain in the ear|0
+early|Before the expected time|0
+earn|To receive money for work|0
+earring|Jewelry worn on the ear|0
+earth|The planet on which we live|0
+east|The direction where the sun rises|0
+eastern|Located in or toward the east|0
+easily|Without difficulty|0
+easy|Not difficult|0
+easygoing|Relaxed and not easily worried|0
+eat|To put food into the mouth and swallow it|0
+economics|The study of money and resources|0
+edge|The outer limit of something|0
+education|The process of learning and teaching|0
+effect|A result caused by something|0
+efficient|Working well without wasting time or effort|0
+effort|Physical or mental energy used to do something|0
+egg|An oval object laid by birds|0
+either|One or the other of two choices|0
+elbow|The joint in the middle of the arm|0
+elder|An older person|0
+elderly|Old in age|0
+election|A process of choosing leaders by voting|0
+electric|Powered by electricity|0
+electrical|Related to electricity|0
+electricity|A form of energy used to power devices|0
+electronic|Using electrical technology|0
+elementary|Basic and simple|0
+elephant|A very large animal with a trunk|0
+elevator|A machine that carries people between floors|0
+else|In addition or other than that|0
+email|A message sent electronically over the internet|0
+embarrassed|Feeling uncomfortable or ashamed|0
+embarrassing|Causing someone to feel ashamed or awkward|0
+embassy|The official office of one country in another country|0
+emergency|A serious situation needing immediate action|0
+experience|Knowledge gained from doing or seeing something|0
+experienced|Having gained knowledge through practice|0
+experiment|A test done to discover or prove something|0
+expert|A person with great knowledge or skill|0
+explain|To make something clear and easy to understand|0
+explanation|A statement that makes something understandable|0
+face|The front part of the head|0
+facilities|Buildings or equipment provided for a purpose|0
+fact|Something that is true|0
+factory|A building where goods are made|0
+fail|To not succeed|0
+fair|Reasonable and treating people equally|0
+fairly|Quite or to a reasonable degree|0
+fall|To move downward|0
+false|Not true|0
+familiar|Well known or recognized|0
+family|A group of related people|0
+famous|Known by many people|0
+fan|A person who strongly likes something or someone|0
+fancy|To like or want something|0
+fantastic|Extremely good or impressive|0
+far|At a great distance|0
+fare|The money paid for a journey|0
+firm|Strong and not easily moved|0
+first|Coming before all others|0
+fish|An animal that lives in water|0
+fishing|The activity of catching fish|0
+fit|Healthy and in good physical condition|0
+fitness|The state of being healthy and strong|0
+fix|To repair something|0
+flag|A piece of cloth used as a symbol|0
+flat|Having a smooth and level surface|0
+flavour|The taste of food or drink|0
+flight|A journey through the air|0
+float|To stay on the surface of a liquid|0
+flood|A large amount of water covering land|0
+floor|The surface you walk on inside a building|0
+flour|A powder made from ground grain|0
+flow|To move smoothly like a liquid|0
+flower|The colorful part of a plant|0
+flu|A common illness causing fever and weakness|0
+flute|A musical instrument played by blowing air|0
+fly|To move through the air|0
+fog|A thick cloud close to the ground|0
+foggy|Filled with fog|0
+fold|To bend something over itself|0
+folk|Ordinary people in general|0
+follow|To go after someone or something|0
+following|Coming next or after|0
+gain|To get or obtain something|0
+gallery|A place where art is displayed|0
+game|An activity played for fun or competition|0
+gap|An empty space between things|0
+garage|A building used for keeping vehicles|0
+garden|An area where plants and flowers are grown|0
+garlic|A plant used to add flavor to food|0
+gas|A substance like air that spreads freely|0
+gate|A movable barrier at an entrance|0
+general|Common or affecting most people|0
+generally|Usually or in most cases|0
+generation|People born around the same time|0
+generous|Willing to give or share with others|0
+gentle|Kind and not rough|0
+geography|The study of places and the Earth|0
+get|To receive or obtain|0
+go|To move from one place to another|0
+gorgeous|Very beautiful or attractive|0
+government|The group that runs a country|0
+grab|To take hold of something quickly|0
+grade|A score showing quality or performance|0
+graduation|The ceremony marking completion of studies|0
+gram|A unit of weight|0
+grammar|The rules of a language|0
+grandchild|The child of one's son or daughter|0
+grand|Large and impressive|0
+habit|Something regularly done|0
+hair|The strands growing on a person's head|0
+haircut|The style or act of cutting hair|0
+hairdresser|A person who cuts and styles hair|0
+hairdryer|A device used to dry hair|0
+half|One of two equal parts|0
+hall|A large room or passage|0
+hand|The body part at the end of the arm|0
+handbag|A bag carried by hand|0
+handsome|Good-looking, especially for a man|0
+handwriting|A person's style of writing by hand|0
+hang|To suspend something from above|0
+happen|To take place or occur|0
+happy|Feeling pleased or joyful|0
+happily|In a happy way|0
+happiness|The feeling of being happy|0
+harbour|A sheltered place for ships|0
+hard|Difficult or firm|0
+hardly|Almost not|0
+hardware|Physical parts of a computer or tools|0
+hat|A covering worn on the head|0
+hopeless|Having no hope or chance of success|0
+horrible|Very unpleasant or terrible|0
+horror|A feeling of great fear|0
+horse|A large animal used for riding or work|0
+hospital|A place where sick or injured people are treated|0
+hostel|A cheap place where travelers can stay|0
+hot|Having a high temperature|0
+huge|Very large in size|0
+ice|Frozen water|0
+idea|A thought, plan, or suggestion|0
+identification|Proof of who a person is|0
+ill|Sick or unhealthy|0
+illness|A disease or period of sickness|0
+imagination|The ability to create ideas in the mind|0
+imagine|To form a picture or idea in the mind|0
+immediately|At once; without delay|0
+immigration|The act of coming to live in a new country|0
+importance|The quality of being valuable or significant|0
+important|Having great value or significance|0
+impossible|Not able to be done|0
+improve|To make or become better|0
+improvement|A change that makes something better|0
+interest|A feeling of wanting to know more|0
+interested|Wanting to learn or know about something|0
+interesting|Holding attention or curiosity|0
+intermediate|Between beginner and advanced levels|0
+international|Involving more than one country|0
+internet|A worldwide computer network|0
+interrupt|To stop something briefly while it is happening|0
+interval|A period of time between events|0
+interview|A meeting where questions are asked|0
+jacket|A short coat worn on the upper body|0
+jail|A place where prisoners are kept|0
+jam|A sweet food made from fruit and sugar|0
+jar|A glass container with a lid|0
+jazz|A style of music with strong rhythms|0
+jealous|Feeling unhappy because someone has something you want|0
+jeans|Trousers made from denim fabric|0
+jet|A fast aircraft powered by jet engines|0
+kangaroo|A large Australian animal that jumps|0
+keen|Very interested or eager|0
+keep|To continue having or holding something|0
+keeper|A person who looks after something|0
+kettle|A container used for boiling water|0
+key|A tool used to open a lock|0
+label|A piece of paper giving information about something|0
+laboratory|A place where scientific tests are done|0
+lack|The absence of something needed|0
+ladder|A structure used for climbing up or down|0
+lady|A woman|0
+lake|A large area of water surrounded by land|0
+lamb|A young sheep|0
+lamp|A device that gives light|0
+land|The solid surface of the Earth|0
+landscape|The visible features of an area of land|0
+language|A system of communication using words|0
+laptop|A portable computer|0
+large|Big in size|0
+last|Coming after all others|0
+late|Happening after the expected time|0
+lately|Recently|0
+let|To allow something to happen|0
+letter|A written message|0
+lettuce|A leafy vegetable often used in salads|0
+level|A position, amount, or stage|0
+library|A place where books can be borrowed or read|0
+licence|An official document giving permission|0
+lie|To be in a flat position|0
+life|The condition of being alive|0
+lift|To raise something upward|0
+light|Something that makes things visible|0
+lighter|A small device used to make a flame|0
+lightning|A bright flash during a storm|0
+like|To enjoy or find pleasant|0
+likely|Probable or expected|0
+limit|The greatest amount allowed|0
+limited|Restricted in size or amount|0
+line|A long narrow mark|0
+machine|A device that performs work|0
+mad|Very angry or mentally disturbed|0
+madam|A polite way to address a woman|0
+magazine|A publication with articles and pictures|0
+magic|The use of special powers or tricks|0
+magnificent|Extremely beautiful or impressive|0
+mail|Letters and packages sent through a postal system|0
+main|Most important|0
+make|To create or produce something|0
+male|A person or animal of the sex that can father offspring|0
+man|An adult male human|0
+manage|To control or deal with something successfully|0
+manager|A person who supervises people or work|0
+mango|A sweet tropical fruit|0
+many|A large number of|0
+map|A drawing showing places and directions|0
+mark|A symbol, sign, or score|0
+market|A place where goods are bought and sold|0
+marriage|The legal union of two people|0
+married|Having a husband or wife|0
+marry|To become the husband or wife of someone|0
+marvellous|Extremely good or wonderful|0
+match|A contest or something that is equal to another|0
+mistake|An action or decision that is wrong|0
+mix|To combine different things together|0
+mobile|A portable telephone|0
+model|A representation or example of something|0
+modern|Relating to the present time|0
+moment|A very short period of time|0
+money|Coins and notes used to buy things|0
+monkey|An animal related to humans that lives in trees|0
+month|A period of about thirty days|0
+monument|A structure built to remember a person or event|0
+mood|A person's emotional state|0
+moon|The natural object that moves around the Earth|0
+more|A greater amount or number|0
+morning|The early part of the day|0
+mosquito|A small flying insect that bites people|0
+most|The greatest amount or number|0
+name|A word used to identify a person or thing|0
+narrow|Not wide|0
+nasty|Very unpleasant or unkind|0
+national|Related to a nation or country|0
+nationality|The country a person legally belongs to|0
+natural|Existing in nature and not made by humans|0
+nature|The physical world and living things|0
+near|Close in distance|0
+nearby|Not far away|0
+nearly|Almost but not completely|0
+neat|Clean and well organized|0
+necessary|Needed or required|0
+neck|The part of the body connecting the head and shoulders|0
+necklace|A piece of jewelry worn around the neck|0
+need|To require something|0
+nose|The part of the face used for smelling and breathing|0
+not|Used to make a statement negative|0
+note|A short written message|0
+notebook|A book with blank pages for writing|0
+notepaper|Paper used for writing letters or notes|0
+nothing|Not anything|0
+object|A thing that can be seen or touched|0
+obvious|Easy to notice or understand|0
+obviously|In a way that is clear and easy to see|0
+occasion|A particular event or time|0
+occupation|A person's job or profession|0
+ocean|A very large body of salt water|0
+offer|To present something for someone to accept|0
+office|A place where people work|0
+officer|A person with a position of authority|0
+often|Many times|0
+oil|A thick liquid used for cooking or fuel|0
+old|Having existed for a long time|0
+olive|A small fruit used to make oil|0
+opera|A musical performance with singing and acting|0
+outdoors|Outside a building|0
+outside|On or to the outer side|0
+oven|A kitchen appliance used for baking or cooking|0
+over|Above something or across it|0
+pack|To put things into a bag or container|0
+packet|A small package|0
+page|One side of a sheet in a book|0
+pain|A physical or emotional feeling of hurt|0
+painful|Causing pain|0
+paint|A colored substance used to cover surfaces|0
+painter|A person who paints|0
+painting|A picture made with paint|0
+pair|Two things that belong together|0
+palace|A large and impressive home of a ruler|0
+pale|Light in color|0
+pan|A metal container used for cooking|0
+pants|Clothing worn on the lower body|0
+paper|Material used for writing or printing|0
+paragraph|A section of writing about one idea|0
+parcel|A package sent by mail|0
+pardon|A polite word used when asking someone to repeat something|0
+parent|A mother or father|0
+peel|To remove the outer covering of something|0
+pen|A tool used for writing with ink|0
+pence|Units of money equal to one hundredth of a pound|0
+pencil|A tool used for writing with graphite|0
+penfriend|A person you exchange letters with|0
+penguin|A black and white bird that cannot fly|0
+penny|A small unit of money|0
+people|Human beings in general|0
+pepper|A spice or vegetable with a strong taste|0
+per|For each|0
+percent|One part out of one hundred|0
+perfect|Without any faults or mistakes|0
+perform|To carry out an action or entertain an audience|0
+performance|An act of presenting something to an audience|0
+performer|A person who entertains an audience|0
+perfume|A pleasant-smelling liquid worn on the body|0
+perhaps|Maybe; possibly|0
+period|A length of time|0
+permanent|Lasting forever or for a very long time|0
+permission|Approval to do something|0
+permit|To allow something|0
+permitted|Allowed by rules or law|0
+person|A human being|0
+personal|Belonging to a particular person|0
+personally|From one's own point of view|0
+persuade|To convince someone to do something|0
+pet|An animal kept for companionship|0
+petrol|Fuel used in many vehicles|0
+pharmacy|A place where medicines are sold|0
+phone|A device used for communication over distance|0
+photo|A picture taken with a camera|0
+photocopy|A copy made using a photocopy machine|0
+photograph|A picture taken using a camera|0
+photographer|A person who takes photographs|0
+photography|The activity or art of taking photographs|0
+phrase|A small group of words forming part of a sentence|0
+physical|Related to the body rather than the mind|0
+physics|The science of matter, energy, and motion|0
+piano|A musical instrument with keys|0
+pick|To choose or select|0
+picnic|A meal eaten outdoors|0
+picture|An image, drawing, or photograph|0
+piece|A part of something larger|0
+pig|A farm animal raised for meat|0
+pilot|A person who flies an aircraft|0
+pink|A light red color|0
+pipe|A tube used to carry liquids or gases|0
+pizza|A flat baked dish with toppings|0
+place|A particular position or location|0
+plan|A set of actions for achieving something|0
+plane|An aircraft that flies through the air|0
+planet|A large object that moves around a star|0
+plant|A living thing that grows in soil|0
+plastic|A man-made material used to make many products|0
+plate|A flat dish used for serving food|0
+platform|A raised surface or area|0
+play|To take part in an activity for fun|0
+player|A person who takes part in a game or sport|0
+pleasant|Giving a feeling of enjoyment|0
+please|Used to make a request polite|0
+pleased|Happy and satisfied|0
+plenty|A large amount of something|0
+pocket|A small bag sewn into clothing|0
+poem|A piece of writing arranged in verse|0
+poet|A person who writes poems|0
+poetry|Literary work written in poems|0
+point|A particular place, idea, or purpose|0
+police|The organization responsible for law enforcement|0
+policeman|A male police officer|0
+policewoman|A female police officer|0
+polite|Showing good manners and respect|0
+pollution|Damage to the environment caused by harmful substances|0
+pool|A small area of still water or a swimming facility|0
+poor|Having little money or low quality|0
+popular|Liked by many people|0
+population|All the people living in a particular area|0
+position|The place where someone or something is located|0
+possible|Able to happen or be done|0
+possibly|Perhaps or maybe|0
+post|Mail sent through a postal service|0
+poster|A large printed notice or picture|0
+potato|A round vegetable that grows underground|0
+pound|A unit of weight or money|0
+practice|Repeated activity to improve a skill|0
+practise|To do something repeatedly to improve|0
+prefer|To like one thing more than another|0
+prepare|To get something ready|0
+present|Existing now or a gift|0
+president|The leader of a country or organization|0
+pretty|Attractive in appearance|0
+price|The amount of money needed to buy something|0
+prince|A male member of a royal family|0
+princess|A female member of a royal family|0
+print|To produce words or images on paper|0
+prison|A place where criminals are kept|0
+prize|Something given as a reward for winning|0
+probably|Most likely|0
+problem|A difficulty that needs a solution|0
+produce|To make or create something|0
+product|Something that is made for sale|0
+profession|A job requiring special training|0
+professional|Having high skill in a particular job|0
+professor|A senior university teacher|0
+program|A planned series of activities or computer instructions|0
+project|A piece of work with a specific goal|0
+promise|A statement that you will do something|0
+pronounce|To say a word in a particular way|0
+pronunciation|The way a word is spoken|0
+proper|Correct or suitable|0
+protect|To keep safe from harm|0
+proud|Feeling pleased about an achievement|0
+provide|To give or supply something|0
+public|Open to all people|0
+publish|To produce and distribute written material|0
+pull|To move something toward yourself|0
+pump|A device used to move liquids or gases|0
+pupil|A student in a school|0
+purchase|To buy something|0
+pure|Clean and not mixed with anything else|0
+purple|A color between red and blue|0
+purpose|The reason for doing something|0
+push|To move something away from yourself|0
+put|To place something somewhere|0
+quality|How good or bad something is|0
+quantity|The amount or number of something|0
+quarter|One of four equal parts|0
+queen|A female ruler or wife of a king|0
+question|Something asked to get information|0
+quick|Fast in movement or action|0
+quickly|At a fast speed|0
+quiet|Making little or no noise|0
+quite|To a certain degree or completely|0
+quiz|A short test of knowledge|0
+rabbit|A small animal with long ears and a short tail|0
+race|A competition to see who is fastest|0
+radio|A device used to receive audio broadcasts|0
+railway|A system of tracks used by trains|0
+rain|Water that falls from clouds|0
+raincoat|A coat worn to keep dry in the rain|0
+rainy|Having a lot of rain|0
+raise|To lift something to a higher position|0
+range|A variety of different things|0
+rapid|Very fast|0
+rare|Not common|0
+rat|A small animal similar to a mouse|0
+rate|A measure or level of something|0
+rather|To some degree or preferably|0
+reach|To arrive at a place or goal|0
+read|To look at and understand written words|0
+reader|A person who reads|0
+reading|The activity of reading|0
+ready|Prepared for something|0
+real|Actually existing or true|0
+realise|To become aware of something|0
+really|Very much or truly|0
+reason|A cause or explanation for something|0
+receive|To get something that is sent or given|0
+recent|Having happened not long ago|0
+recently|A short time ago|0
+reception|The area where visitors are welcomed|0
+recipe|Instructions for preparing food|0
+recognise|To identify someone or something known before|0
+recommend|To suggest something as good|0
+record|To keep information for future use|0
+recycle|To process materials so they can be used again|0
+red|The color of blood or fire|0
+reduce|To make smaller or less|0
+refer|To mention or direct attention to something|0
+refrigerator|A machine used to keep food cold|0
+refuse|To say no to something|0
+region|A particular area of a country or world|0
+regular|Happening in a consistent pattern|0
+relationship|The connection between people or things|0
+relative|A member of your family|0
+relax|To rest and become less tense|0
+remember|To keep something in your mind|0
+remind|To help someone remember something|0
+remove|To take something away|0
+repair|To fix something that is broken|0
+repeat|To do or say something again|0
+replace|To take the place of something else|0
+reply|To answer someone|0
+report|A written or spoken account of something|0
+reporter|A person who gathers and reports news|0
+request|A polite ask for something|0
+require|To need something|0
+research|A careful study to discover information|0
+reservation|An arrangement to keep something for future use|0
+reserve|To keep something for a particular purpose|0
+resident|A person who lives in a place|0
+resist|To refuse to accept or be affected by something|0
+resource|A useful supply of something|0
+respect|Admiration for someone or something|0
+respond|To answer or react|0
+response|An answer or reaction|0
+restaurant|A place where meals are prepared and served|0
+result|The outcome of an action or event|0
+return|To come or go back|0
+rice|A grain commonly eaten as food|0
+rich|Having a lot of money or resources|0
+ride|To travel on a bicycle, horse, or vehicle|0
+right|Correct or opposite of left|0
+ring|A circular piece of jewelry|0
+river|A large natural stream of water|0
+road|A path for vehicles to travel on|0
+robot|A machine that can perform tasks automatically|0
+rock|A hard natural substance found in the ground|0
+role|A function or position in a situation|0
+roof|The top covering of a building|0
+room|A part of a building separated by walls|0
+root|The part of a plant that grows underground|0
+rope|A thick strong cord|0
+rough|Not smooth or gentle|0
+round|Having a circular shape|0
+route|A path or way from one place to another|0
+rubber|A flexible material made naturally or artificially|0
+rubbish|Waste material or garbage|0
+rude|Not polite|0
+rule|An instruction that tells what is allowed|0
+run|To move quickly on foot|0
+runner|A person who runs|0
+running|The activity of moving quickly on foot|0
+rural|Related to the countryside|0
+rush|To move or act very quickly|0
+safe|Protected from danger|0
+safely|In a way that avoids danger|0
+safety|The condition of being protected from harm|0
+sail|To travel on water in a boat or ship|0
+sailing|The activity of traveling by boat|0
+salad|A dish made mainly of vegetables|0
+salary|Money paid regularly for work|0
+sale|The act of selling something|0
+salt|A white substance used to flavor food|0
+same|Exactly alike|0
+sand|Small grains of rock found on beaches and deserts|0
+sandwich|Two pieces of bread with food between them|0
+satisfaction|A feeling of pleasure from achieving something|0
+satisfied|Pleased with a result or situation|0
+sauce|A liquid added to food for flavor|0
+save|To keep something for future use or prevent loss|0
+say|To speak words|0
+scarf|A piece of cloth worn around the neck|0
+scene|A place where an event happens or part of a play|0
+schedule|A plan showing times for activities|0
+school|A place where students learn|0
+science|The study of the natural world|0
+scientist|A person who studies science|0
+score|The number of points gained in a game|0
+screen|The flat surface of a television, phone, or computer|0
+sea|A large area of salt water|0
+search|To look carefully for something|0
+season|One of the four parts of the year|0
+seat|A place to sit|0
+second|Coming after the first|0
+secret|Something known by only a few people|0
+secretary|A person who handles office tasks|0
+section|A part of something larger|0
+secure|Safe and protected|0
+security|Protection from danger or threats|0
+see|To use your eyes to look at something|0
+seem|To appear to be|0
+select|To choose from several options|0
+selfish|Caring only about yourself|0
+sell|To exchange something for money|0
+semester|One of the main periods of a school year|0
+send|To cause something to go to a person or place|0
+senior|Older or having a higher rank|0
+sense|The ability to understand or feel something|0
+sensible|Showing good judgment|0
+sentence|A group of words expressing a complete idea|0
+separate|To divide or keep apart|0
+serious|Important or not joking|0
+serve|To provide food, help, or service|0
+service|Work done to help others|0
+set|To put something in a particular place|0
+settle|To make a home or reach an agreement|0
+several|More than two but not many|0
+shake|To move something quickly back and forth|0
+shall|Used to express a future action or suggestion|0
+shape|The form or outline of something|0
+share|To use or enjoy something together|0
+sharp|Having a thin edge that can cut|0
+sheep|A farm animal raised for wool and meat|0
+sheet|A large thin piece of paper or fabric|0
+shelf|A flat surface used to hold things|0
+shine|To give off light or appear bright|0
+ship|A large boat used for travel or transport|0
+shirt|A piece of clothing worn on the upper body|0
+shock|A feeling of surprise or distress|0
+shoe|Something worn on the foot|0
+shoot|To fire a weapon or take a photograph|0
+shop|A place where goods are sold|0
+shopping|The activity of buying things|0
+shore|The land along the edge of a sea or lake|0
+short|Not long in length or time|0
+should|Used to express advice or duty|0
+shoulder|The part of the body between the neck and arm|0
+shout|To speak very loudly|0
+show|To make something visible|0
+shower|Water falling for washing the body|0
+shut|To close something|0
+sick|Ill or unwell|0
+side|One of the surfaces or edges of something|0
+sight|The ability to see|0
+sign|A symbol or notice giving information|0
+signal|A sign used to communicate information|0
+silence|The absence of sound|0
+silent|Making little or no sound|0
+silver|A valuable gray-white metal|0
+similar|Almost the same|0
+simple|Easy to understand or do|0
+simply|In a simple way|0
+since|From a particular time in the past until now|0
+sing|To make musical sounds with the voice|0
+singer|A person who sings|0
+single|Only one|0
+sink|A basin used for washing|0
+sister|A female sibling|0
+sit|To rest on a chair or surface|0
+site|A place where something is located|0
+situation|The conditions at a particular time|0
+size|How large or small something is|0
+skill|The ability to do something well|0
+skin|The outer covering of the body|0
+skirt|A piece of clothing worn from the waist down|0
+sky|The space above the Earth|0
+sleep|A natural state of rest|0
+slice|A thin piece cut from something|0
+slide|To move smoothly across a surface|0
+slim|Thin in an attractive way|0
+slow|Moving at a low speed|0
+slowly|At a low speed|0
+small|Little in size|0
+smart|Intelligent or well dressed|0
+smell|The ability to sense odors|0
+smile|A happy expression on the face|0
+smoke|The gray gas produced by burning|0
+smooth|Having an even surface|0
+snake|A long animal with no legs|0
+snow|Frozen water falling from clouds|0
+snowy|Covered with or having snow|0
+so|To a great degree or therefore|0
+soap|A substance used for cleaning|0
+social|Related to people and society|0
+society|People living together in a community|0
+sock|A piece of clothing worn on the foot|0
+soft|Not hard|0
+software|Programs and instructions used by a computer|0
+soil|The upper layer of earth where plants grow|0
+soldier|A member of an army|0
+solution|An answer to a problem|0
+solve|To find an answer to a problem|0
+some|An unspecified amount or number|0
+someone|A person whose identity is not specified|0
+something|A thing that is not specified|0
+sometimes|On some occasions but not always|0
+somewhere|In or to an unspecified place|0
+son|A male child|0
+song|A piece of music with words|0
+soon|In a short time|0
+sorry|Feeling regret for something|0
+sort|A type or category of something|0
+sound|Something that can be heard|0
+soup|A liquid food usually served hot|0
+south|The direction opposite to north|0
+southern|Located in or toward the south|0
+space|An empty area or the universe beyond Earth|0
+speak|To use words to communicate|0
+speaker|A person who speaks or a device that produces sound|0
+special|Different from others in a good way|0
+specialist|A person with expert knowledge in a field|0
+speech|A formal talk given to an audience|0
+speed|How fast something moves|0
+spell|To write or say the letters of a word|0
+spelling|The correct arrangement of letters in a word|0
+spend|To use money or time|0
+spider|A small creature with eight legs|0
+spoon|A tool used for eating or serving food|0
+sport|A physical activity played for competition or fun|0
+sportsman|A man who takes part in sports|0
+sportswoman|A woman who takes part in sports|0
+spring|The season between winter and summer|0
+square|A shape with four equal sides|0
+stable|Firm and not likely to change|0
+stadium|A large place for sports events|0
+staff|People who work for an organization|0
+stage|A raised area where performances take place|0
+stair|One step in a staircase|0
+stamp|A small label placed on mail|0
+stand|To be in an upright position|0
+standard|A level of quality or achievement|0
+star|A bright object in the night sky|0
+start|To begin something|0
+station|A place where trains or buses stop|0
+stay|To remain in a place|0
+steal|To take something without permission|0
+steam|Hot water in gas form|0
+step|A movement made by lifting and placing a foot|0
+stick|A thin piece of wood|0
+still|Not moving or continuing to happen|0
+stomach|The organ where food is digested|0
+stone|A small piece of rock|0
+stop|To end movement or activity|0
+store|A shop where goods are sold|0
+storm|Bad weather with strong wind and rain|0
+story|A description of events, real or imagined|0
+straight|Without curves or bends|0
+strange|Unusual or unfamiliar|0
+street|A road in a town or city|0
+strength|The quality of being physically or mentally strong|0
+strong|Having great power or force|0
+student|A person who is learning at a school or university|0
+study|To learn about a subject|0
+subject|A topic of discussion or study|0
+success|The achievement of a goal|0
+successful|Having achieved the desired result|0
+such|Of that kind or type|0
+sudden|Happening quickly and unexpectedly|0
+sugar|A sweet substance used in food and drinks|0
+suggest|To offer an idea or plan|0
+suggestion|An idea proposed for consideration|0
+suit|A set of matching clothes or something suitable|0
+summer|The warmest season of the year|0
+sun|The star that gives Earth light and heat|0
+sunday|The first day of the week in many calendars|0
+sunny|Bright with sunshine|0
+supermarket|A large store selling food and household goods|0
+support|To help or encourage someone|0
+suppose|To think something is probably true|0
+sure|Certain or confident|0
+surface|The outside part of something|0
+surprise|An unexpected event or feeling|0
+surprised|Feeling unexpected amazement|0
+surprising|Causing surprise|0
+survey|A study used to collect information|0
+swear|To make a serious promise or use rude language|0
+sweater|A warm knitted piece of clothing|0
+sweep|To clean with a brush|0
+sweet|Having a sugary taste|0
+swim|To move through water|0
+swimmer|A person who swims|0
+swimming|The activity of moving through water|0
+switch|A device used to turn something on or off|0
+table|A piece of furniture with a flat top|0
+tablet|A small flat computer or a dose of medicine|0
+tail|The part extending from the back of an animal|0
+take|To get or carry something|0
+talk|To speak with someone|0
+tall|Having greater than average height|0
+taste|The sense used to detect flavors|0
+taxi|A vehicle for hire with a driver|0
+tea|A drink made by soaking leaves in hot water|0
+teach|To help someone learn|0
+teacher|A person whose job is teaching|0
+team|A group of people working together|0
+tear|A drop of liquid from the eye|0
+technology|The use of scientific knowledge for practical purposes|0
+telephone|A device used for voice communication|0
+television|A system for broadcasting moving images and sound|0
+tell|To give information to someone|0
+temperature|A measure of how hot or cold something is|0
+temporary|Lasting for only a limited time|0
+tennis|A sport played with rackets and a ball|0
+tent|A portable shelter made of cloth|0
+term|A word, expression, or period of time|0
+terrible|Very bad or unpleasant|0
+test|An examination used to measure knowledge or ability|0
+text|Written words forming a piece of communication|0
+than|Used when comparing things|0
+thank|To express gratitude|0
+thanks|Words used to show appreciation|0
+that|Used to refer to a particular thing or person|0
+theatre|A place where plays and performances are shown|0
+their|Belonging to them|0
+them|The object form of they|0
+themselves|Used to refer back to a group of people|0
+then|At that time or afterward|0
+theory|A set of ideas explaining something|0
+there|In or at that place|0
+therefore|For that reason|0
+these|The plural form of this|0
+they|Used to refer to people or things already mentioned|0
+thick|Having a large distance between opposite sides|0
+thin|Having a small distance between opposite sides|0
+thing|An object, idea, or action|0
+think|To use the mind to consider something|0
+third|Coming after the second|0
+thirsty|Needing or wanting a drink|0
+this|Used to refer to something near in place or time|0
+those|The plural form of that|0
+though|Despite the fact that|0
+thought|An idea or opinion produced by thinking|0
+thousand|The number 1000|0
+thread|A thin strand used for sewing|0
+through|From one side to the other|0
+throw|To send something through the air|0
+thunder|The loud sound following lightning|0
+ticket|A piece of paper allowing entry or travel|0
+tidy|Neat and well organized|0
+tie|A long piece of cloth worn around the neck|0
+tight|Firmly fixed and not loose|0
+till|Until a particular time|0
+time|A measured period during which things happen|0
+timetable|A schedule showing times for events|0
+tired|Needing rest because of fatigue|0
+title|The name of a book, film, or work|0
+today|The present day|0
+together|With each other or in one place|0
+tomorrow|The day after today|0
+tonight|The evening or night of the current day|0
+tool|An object used to carry out a task|0
+tooth|One of the hard structures in the mouth|0
+topic|A subject being discussed or studied|0
+tour|A journey made for pleasure or learning|0
+tourist|A person traveling for pleasure|0
+toward|In the direction of something|0
+towel|A piece of cloth used for drying|0
+tower|A tall narrow building or structure|0
+town|A populated area smaller than a city|0
+toy|An object used for play|0
+track|A path, route, or course|0
+trade|The buying and selling of goods and services|0
+traffic|Vehicles moving on roads|0
+train|A series of connected railway cars|0
+trainer|A person who teaches skills or exercises|0
+training|The process of learning skills|0
+transport|The movement of people or goods|0
+travel|To go from one place to another|0
+traveller|A person who travels|0
+tree|A tall plant with a trunk and branches|0
+trip|A journey to a place and back|0
+trouble|Difficulty or problems|0
+truck|A large vehicle used to carry goods|0
+true|Accurate and not false|0
+trust|Confidence in someone or something|0
+truth|The state of being true|0
+try|To make an effort to do something|0
+tunnel|A passage built underground or through a hill|0
+turn|To move around a central point or change direction|0
+twice|Two times|0
+type|A category or kind of something|0
+typical|Having the usual qualities of a group|0
+umbrella|A device used for protection from rain|0
+uncle|The brother of a parent or aunt's husband|0
+under|Below something|0
+understand|To know the meaning of something|0
+uniform|A special set of clothes worn by members of a group|0
+university|A place of higher education|0
+until|Up to a particular time|0
+unusual|Different from what is normal|0
+upstairs|On a higher floor of a building|0
+use|To employ something for a purpose|0
+useful|Helpful and practical|0
+usual|Common or normal|0
+usually|In most cases|0
+vacation|A period of time spent away from work or study|0
+valley|A low area of land between hills or mountains|0
+valuable|Worth a lot of money or importance|0
+value|The worth or importance of something|0
+vegetable|A plant grown for food|0
+vehicle|A machine used for transportation|0
+village|A small community in the countryside|0
+visit|To go and see a person or place|0
+visitor|A person who visits|0
+voice|The sound produced when speaking or singing|0
+volleyball|A sport played by hitting a ball over a net|0
+vote|To express a choice in an election|0
+vowel|A speech sound made without blocking airflow|0
+wait|To stay until something happens|0
+waiter|A man who serves food and drinks in a restaurant|0
+waitress|A woman who serves food and drinks in a restaurant|0
+wake|To stop sleeping|0
+walk|To move on foot|0
+wall|A vertical structure that forms the side of a building|0
+wallet|A small case used to carry money and cards|0
+want|To desire something|0
+warm|Having a comfortable amount of heat|0
+warn|To tell someone about possible danger|0
+wash|To clean with water|0
+waste|To use something carelessly or unnecessarily|0
+watch|To look at something carefully over time|0
+water|A clear liquid essential for life|0
+wave|A moving ridge on water or a hand movement for greeting|0
+way|A method, direction, or path|0
+weak|Not strong|0
+wear|To have clothing on the body|0
+weather|The condition of the atmosphere|0
+website|A collection of pages on the internet|0
+wedding|A ceremony where two people get married|0
+week|A period of seven days|0
+weekend|The days at the end of the week|0
+weight|The heaviness of a person or object|0
+welcome|A friendly greeting to someone arriving|0
+well|In a good or satisfactory way|0
+west|The direction where the sun sets|0
+western|Located in or toward the west|0
+wet|Covered with or containing water|0
+whale|A very large sea mammal|0
+what|Used to ask for information|0
+wheel|A circular object that rotates to help movement|0
+when|At what time|0
+where|In or at what place|0
+which|Used to ask about one or more choices|0
+while|During the time that something happens|0
+white|The color of snow or milk|0
+who|Used to ask about a person|0
+whole|Complete and not divided|0
+whose|Belonging to which person|0
+why|For what reason|0
+wide|Having a large distance from side to side|0
+wife|A married woman|0
+wild|Living in nature and not controlled by people|0
+will|Used to express future actions|0
+win|To be successful in a competition|0
+wind|Moving air|0
+window|An opening in a wall fitted with glass|0
+winner|A person who wins|0
+winter|The coldest season of the year|0
+wire|A thin metal thread|0
+wise|Having good judgment and experience|0
+wish|A desire for something to happen|0
+with|Accompanied by|0
+without|Not having or using something|0
+wolf|A wild animal related to dogs|0
+woman|An adult female human|0
+wonder|A feeling of great surprise and admiration|0
+wonderful|Extremely good and enjoyable|0
+wood|The hard material from trees|0
+wooden|Made of wood|0
+word|A unit of language with meaning|0
+work|Activity done to achieve a purpose or earn money|0
+worker|A person who does a job|0
+world|The Earth and all its people and places|0
+worry|To feel anxious about something|0
+worse|More bad than something else|0
+worst|The most bad|0
+worth|Having a particular value|0
+would|Used to talk about possibilities or past habits|0
+write|To form words using letters|0
+writer|A person who writes books, articles, or other texts|0
+writing|The activity of creating written words|0
+wrong|Not correct|0
+yard|An area of land next to a building|0
+year|A period of twelve months|0
+yellow|The color of the sun or a lemon|0
+yesterday|The day before today|0
+young|Having lived for only a short time|0
+yourself|The person being spoken to|0
+youth|The period of being young|0
+zebra|An African animal with black and white stripes|0
+zero|The number representing none or nothing|0
+zoo|A place where animals are kept for public viewing|0
+vastaganahuiyeee|chchaaahhh...|0
+yousuf|buddy|0

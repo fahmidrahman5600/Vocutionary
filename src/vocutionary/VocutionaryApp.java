@@ -232,7 +232,7 @@ public class VocutionaryApp {
              java.io.PrintWriter out = new java.io.PrintWriter(bw)) {
 
             // Append formatted line: word,meaning
-            out.println(text + "," + meaning);
+            out.print("\n" + text + "|" + meaning + "|0");
 
             System.out.println("✅ Success! '" + text + "' has been integrated into the BST and saved permanently.");
             activityTracker.logActivity("Added new word to dataset: " + text);
