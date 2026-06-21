@@ -47,8 +47,7 @@ public class VocutionaryApp {
                     runWeakWordsReview(scanner);
                     break;
                 case "3":
-                    System.out.println("\n[System] Launching Add Word Panel... (Coming up next!)");
-                    activityTracker.logActivity("Opened Add Word Interface.");
+                    runAddNewWordPanel(scanner);
                     break;
                 case "4":
                     System.out.println();
@@ -192,6 +191,55 @@ public class VocutionaryApp {
 
         // 3. Log this interaction event to our Circular Activity Queue
         activityTracker.logActivity("Executed Weak Words Priority Heap review.");
+    }
+
+    private void runAddNewWordPanel(Scanner scanner) {
+        System.out.println("\n=================================");
+        System.out.println("    ADD NEW WORD TO DICTIONARY   ");
+        System.out.println("=================================");
+
+        System.out.print("Enter the new word (letters only): ");
+        String text = scanner.nextLine().trim().toLowerCase();
+
+        // Basic structural verification
+        if (text.isEmpty() || text.contains(" ")) {
+            System.out.println("❌ Invalid format! Word must be a single non-empty token.");
+            return;
+        }
+
+        // 1. Core BST Duplicate Check
+        if (dictionary.contains(text)) {
+            System.out.println("❌ Duplicate Detected! The word '" + text + "' already exists in your dictionary.");
+            return;
+        }
+
+        System.out.print("Enter the concise definition: ");
+        String meaning = scanner.nextLine().trim();
+
+        if (meaning.isEmpty()) {
+            System.out.println("❌ Definition cannot be empty.");
+            return;
+        }
+
+        // 2. Insert into the live runtime Binary Search Tree
+        Word newWord = new Word(text, meaning, 0);
+        dictionary.insert(newWord);
+
+        // 3. Append to physical storage file (dictionary.txt) for permanent saving
+        // We use standard Java IO which is safe under your assignment's rules
+        try (java.io.FileWriter fw = new java.io.FileWriter("dictionary.txt", true);
+             java.io.BufferedWriter bw = new java.io.BufferedWriter(fw);
+             java.io.PrintWriter out = new java.io.PrintWriter(bw)) {
+
+            // Append formatted line: word,meaning
+            out.println(text + "," + meaning);
+
+            System.out.println("✅ Success! '" + text + "' has been integrated into the BST and saved permanently.");
+            activityTracker.logActivity("Added new word to dataset: " + text);
+
+        } catch (java.io.IOException e) {
+            System.out.println("⚠️ Word added to RAM tree, but failed to write permanently to disk.");
+        }
     }
 
     public static void main(String[] args) {
